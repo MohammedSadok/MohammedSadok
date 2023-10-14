@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sadok</h1>
-<h3 align="center">🚀 Junior Full Stack Developer | Passionate about Web Development, Clean Architectures, Design Patterns, and Problem Solving 💡</h3>
+<h3 align="center">🚀 Junior Full Stack Developer From Morocco Passionate about Web Development, Clean Architectures, Design Patterns, and Problem Solving 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsadok&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsadok" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+
+- 🔭 I’m currently working on Messaging Web App)
+
+- 🌱 I’m currently learning **Next js & Spring Boot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
+- 📫 How to reach me **mohammed.sadok04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
