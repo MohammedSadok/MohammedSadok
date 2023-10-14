@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sadok</h1>
 <h3 align="center">🚀 Junior Full Stack Developer From Morocco Passionate about Web Development, Clean Architectures, Design Patterns, and Problem Solving 💡</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsadok&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsadok" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
 - 🔭 I’m currently working on Messaging Web App)
 
