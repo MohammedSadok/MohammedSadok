@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sadok</h1>
-<h3 align="center">A passionate fronten🚀 Junior Full Stack Developer | Passionate about Web Development, Clean Architectures, Design Patterns, and Problem Solving 💡</h3>
+<h3 align="center">🚀 Junior Full Stack Developer | Passionate about Web Development, Clean Architectures, Design Patterns, and Problem Solving 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsadok&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsadok" /> </p>
 
