@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next js & Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 All of my projects are available at [https://github.com/MohammedSadok](https://github.com/MohammedSadok)
 
 - 💬 Ask me about **Next js**
 
