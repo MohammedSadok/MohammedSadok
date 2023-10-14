@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsadok&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsadok" /> </p>
 
 
-- 🔭 I’m currently working on Messaging Web App)
+- 🔭 I’m currently working on a **Messaging Web App**
 
 - 🌱 I’m currently learning **Next js & Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **Next js**
 
 - 📫 How to reach me **mohammed.sadok04@gmail.com**
 
