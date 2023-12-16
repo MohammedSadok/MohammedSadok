@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Programming languages, Frameworks and Tools:</h3>
-
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="spring" width="90"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
@@ -30,6 +30,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="90">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsadok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohammedsadok" /></p>
 
